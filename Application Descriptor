@@ -1,0 +1,8 @@
+MIDlet-Version: 1.3
+MIDlet-Vendor: JJR
+MIDlet-Data-Size: 2
+MIDlet-Jar-URL: TouchMare.jar
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
+MIDlet-1: TouchMare,/icon.png,com.jjr.touchmare.TouchMare
+MIDlet-Name: TouchMare

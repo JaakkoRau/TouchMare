@@ -1,0 +1,7 @@
+#Tue Jun 26 18:52:28 EEST 2012
+eclipse.preferences.version=1
+obfuscate_use_project=true
+preverify_config_value=CLDC-1.0
+preverify_type=preverify_proguard
+proguard_options=-dontnote -microedition -overloadaggressively -dontusemixedcaseclassnames -defaultpackage ''
+proguard_use_specified=true
